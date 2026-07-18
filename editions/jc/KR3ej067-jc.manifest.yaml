@@ -24,8 +24,8 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej067_000-jc.markers.yaml, hash: 'sha256:a60d23cca832bc0622cddd2f489ad4ea22c524b24cc178a691dd9f738e08a56c'}
   - {seq: 1, role: markers, filename: assets/KR3ej067_001-jc.markers.yaml, hash: 'sha256:6e4bdaeec6e34509945366bc06dd1aa6ba1c51a7372a3f14583e8b8fcbf62071'}
-  - {seq: 2, role: markers, filename: assets/KR3ej067_002-jc.markers.yaml, hash: 'sha256:6773fb64871e7eaf8bbb3ece13e79b9608ac70d1c790c5a72e948d0a2adbd760'}
-  - {seq: 3, role: markers, filename: assets/KR3ej067_003-jc.markers.yaml, hash: 'sha256:63633e4c4341a86a7425bda31a859f25290f75a1d69009c1e9d090680eb158ce'}
+  - {seq: 2, role: markers, filename: assets/KR3ej067_002-jc.markers.yaml, hash: 'sha256:a87146463c99c5b020a607506df4c1a4604c70dc1213665acb2675468d95aabe'}
+  - {seq: 3, role: markers, filename: assets/KR3ej067_003-jc.markers.yaml, hash: 'sha256:6071398f5cb1b57f61960e021d29d8906cb1f9d7eed724be3a67c6e3e9641643'}
 table_of_contents:
 - ref:
     seq: 0
@@ -747,4 +747,4 @@ table_of_contents:
   label: 雜症門
   type: section
   level: 3
-hash: sha256:17878eaf5f7ca7f96e61ae3d6a6abade26c74ed5ef3f8c4e414ba1e919f8ea23
+hash: sha256:8225053b099c7838922c38629b6c7e07768e9905c2a7546bb5edfee83d5d6370

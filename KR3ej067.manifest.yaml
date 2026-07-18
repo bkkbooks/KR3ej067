@@ -24,8 +24,8 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej067_000.markers.yaml, hash: 'sha256:6a3bccfebab8b11c26e4012c8ef93e14eece8d1a3c4bc826be217b0c1509ddac'}
   - {seq: 1, role: markers, filename: assets/KR3ej067_001.markers.yaml, hash: 'sha256:d7be638da356742356b9fe729145b31dae707d359b2e22b3205905cc8aaca560'}
-  - {seq: 2, role: markers, filename: assets/KR3ej067_002.markers.yaml, hash: 'sha256:a6b46de01e648d13967e5c854be67bbe184ee55703d850f81ab7feeb7c6bbd43'}
-  - {seq: 3, role: markers, filename: assets/KR3ej067_003.markers.yaml, hash: 'sha256:d09b98a80e47be5b0d38755226e370fc6fcc300a5df3e058301cff40fec31acd'}
+  - {seq: 2, role: markers, filename: assets/KR3ej067_002.markers.yaml, hash: 'sha256:e70c7620a21800b35e2511504a81f40f1059945f65214f3b511608751c31ea34'}
+  - {seq: 3, role: markers, filename: assets/KR3ej067_003.markers.yaml, hash: 'sha256:2f20ddf819b68b7ea963a9be22dee9783ff64aaa7e7f2beebc697c49ab227fcb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -747,7 +747,7 @@ table_of_contents:
   label: 雜症門
   type: section
   level: 3
-hash: sha256:46f2a4e9d6ca89eb103107f0d469deb749a2a2a8879e1fad0bafdd450c9e03b1
+hash: sha256:6a76a9f84db6e9fd5f9ad6a4526108571e6d03853035c5e645c96b43dba4e9c8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
